@@ -83,4 +83,4 @@ python3 analyze_task1.py \
 
 GitHub folder URL:
 
-`https://github.com/Ted323-NZ/YoobeeMSE800/tree/codex/mse803-week02-w2-a1/MSE803DataAnalytics/Week02/W2-A1`
+`https://github.com/Ted323-NZ/YoobeeMSE800/tree/codex/mse803-week02-w2-a2/MSE803DataAnalytics/Week02/W2-A1`
