@@ -47,8 +47,8 @@ The confusion matrix shows that all 30 testing records were classified correctly
 
 ## Screenshot of Results
 
-![SVM Linear Kernel Results](output/svm_results.png)
+![SVM Linear Kernel Results](./output/svm_results.png)
 
 ## Dataset Visualisation
 
-![Iris Pair Plot](output/iris_pairplot.png)
+![Iris Pair Plot](./output/iris_pairplot.png)

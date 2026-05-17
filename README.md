@@ -25,3 +25,7 @@ Open the activity folder here:
 Open the activity folder here:
 
 [Week06/W6-A1](Week06/W6-A1)
+
+### SVM Results Screenshot
+
+![SVM Linear Kernel Results](Week06/W6-A1/output/svm_results.png)
