@@ -1,0 +1,46 @@
+{
+  "target_role": "Software Engineer",
+  "overall_score": 88,
+  "summary": "The CV is suitable for an early-career application but needs stronger evidence, clearer structure, and more software engineering keywords.",
+  "strengths": [
+    "The CV includes a skills section, which helps recruiters scan technical fit quickly.",
+    "Project information is useful for a Software Engineer role because it shows applied capability.",
+    "Education details are present and support the candidate's early-career profile."
+  ],
+  "improvement_areas": [
+    "Add measurable outcomes, such as performance gains, users supported, or time saved.",
+    "Align the opening summary and skills with the target role: Software Engineer."
+  ],
+  "content_recommendations": [
+    "Rewrite duties as achievements using action verbs and measurable results.",
+    "Add 2-3 role-relevant projects with technology stack, problem, action, and outcome.",
+    "Include links to GitHub, LinkedIn, or a portfolio if available.",
+    "Prioritize recent technical work and remove generic statements that do not prove capability."
+  ],
+  "structure_recommendations": [
+    "Use this order: header, professional summary, technical skills, projects, experience, education.",
+    "Keep each bullet to one or two lines and start with a strong action verb.",
+    "Group skills by category, for example languages, frameworks, databases, and tools."
+  ],
+  "presentation_recommendations": [
+    "Use consistent heading styles, spacing, and bullet formatting.",
+    "Keep the CV to one page for an entry-level role unless there is substantial experience.",
+    "Avoid dense paragraphs; make the document easy to scan in 30 seconds."
+  ],
+  "ats_keywords": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "REST API",
+    "FastAPI",
+    "React",
+    "SQL",
+    "Git",
+    "Docker",
+    "testing",
+    "cloud deployment",
+    "Agile"
+  ],
+  "revised_summary": "Early-career Software Engineer with hands-on experience building Python and web applications, designing REST APIs, working with SQL data, and using Git-based development workflows. Strong interest in clean backend design, testing, and practical problem solving.",
+  "provider": "demo"
+}

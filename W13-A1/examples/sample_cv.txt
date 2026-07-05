@@ -1,0 +1,27 @@
+Alex Chen
+Auckland, New Zealand
+alex.chen@example.com | +64 21 000 0000
+
+Profile
+I am a student interested in software development and data analytics. I have worked on class projects using Python and web technologies. I want to get a software engineer job and improve my programming skills.
+
+Skills
+Python, JavaScript, HTML, CSS, SQL, Git, Excel, basic React
+
+Education
+Yoobee College, New Zealand
+Diploma coursework in data analytics and software development
+
+Projects
+Task app
+- Made a small app for tasks.
+- Used Python and some web pages.
+
+Data report
+- Cleaned data and made charts for an assignment.
+
+Experience
+Student projects and group work
+- Helped team members with code.
+- Fixed problems during assignments.
+
